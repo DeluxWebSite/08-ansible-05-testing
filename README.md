@@ -24,9 +24,7 @@
 
 ---
 
-![]()
-![]()
-![]()
+![](https://github.com/DeluxWebSite/08-ansible-05-testing/blob/master/screenshots/Снимок%20экрана%20от%202025-08-01%2015-44-28.png)
 
 ---
 
@@ -44,9 +42,9 @@
 
 ---
 
-![]()
-![]()
-![]()
+![](https://github.com/DeluxWebSite/08-ansible-05-testing/blob/master/screenshots/Снимок%20экрана%20от%202025-08-04%2008-58-18.png)
+![](https://github.com/DeluxWebSite/08-ansible-05-testing/blob/master/screenshots/Снимок%20экрана%20от%202025-08-04%2009-00-05.png)
+![](https://github.com/DeluxWebSite/08-ansible-05-testing/blob/master/screenshots/Снимок%20экрана%20от%202025-08-04%2009-00-23.png)
 
 ---
 
